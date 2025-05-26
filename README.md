@@ -1,16 +1,13 @@
-# flutter_cursor_challenge
+Cursor로 만든 프로젝트입니다.
 
-A new Flutter project.
+아직 폴더 트리 및 파일 생성에 대해 미숙함이 많습니다.
 
-## Getting Started
+중복된 파일이 있거나 하는 문제를 말끔히 해결하는 법을 찾아 가는 과정입니다.
 
-This project is a starting point for a Flutter application.
+대략 3일 전에 프로젝트에 피벗을 하기로 결정했습니다.
+현재까지 진행 중인 프로토타입 개발의 방향이 바뀔 예정입니다.
 
-A few resources to get you started if this is your first Flutter project:
+이 플러터 프로젝트는 아직 방향이 바뀌기 이전의 것입니다.
+최소한의 프론트 UI만 구현돼 있습니다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+여기서 다시 다른 방향으로 발전시킬 계획입니다.
